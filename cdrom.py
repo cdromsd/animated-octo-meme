@@ -10,6 +10,9 @@ def subtraction(n1, n2):
     return n1 - n2
 
 def test():
+	print('klaonoob')
+
+def test():
 	print('klao handsome and smart')
     
 cal(int(input()), int(input()))
